@@ -1,4 +1,4 @@
-arch-update(1) ["Arch-Update 3.11.0" ["Manuel de Arch-Update"]]
+arch-update(1) ["Arch-Update 3.12.4" ["Manuel de Arch-Update"]]
 
 # NOM
 
@@ -239,6 +239,9 @@ Voir https://github.com/Vladimir-csp/xdg-terminal-exec?tab=readme-ov-file#config
 
 *16*
 	Erreur lors de la création des répertoires `statedir` et / ou `tmpdir`.
+
+*17*
+	Une autre instance d'Arch-Update est déjà en cours d'exécution.
 
 # VOIR AUSSI
 

@@ -2,6 +2,53 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v3.12.4](https://github.com/Antiz96/arch-update/releases/tag/v3.12.4) - 2025-05-05
+
+### Fixes
+
+- *(systray)* Allow systray applet to run for multiple users ([#383](https://github.com/Antiz96/arch-update/pull/383)) - ([3b48326](https://github.com/Antiz96/arch-update/commit/3b483266a8cbd897c83674b8165828fd15a2e532)) by @Antiz96
+
+## [v3.12.3](https://github.com/Antiz96/arch-update/releases/tag/v3.12.3) - 2025-04-24
+
+### Fixes
+
+- Avoid collisions during parallel updates checks ([#381](https://github.com/Antiz96/arch-update/pull/381)) - ([6aa4e7c](https://github.com/Antiz96/arch-update/commit/6aa4e7c067283dcd086a259ab154e2e80c056444)) by @Antiz96
+
+### Miscellaneous
+
+- *(i18n)* Update translation files ([#382](https://github.com/Antiz96/arch-update/pull/382)) - ([0ee11b4](https://github.com/Antiz96/arch-update/commit/0ee11b44dfc63b223371975e91ccf989176ad476)) by @Antiz96
+
+## [v3.12.2](https://github.com/Antiz96/arch-update/releases/tag/v3.12.2) - 2025-04-22
+
+### Documentation
+
+- *(README)* Remove unnecessary sudo mentions ([#378](https://github.com/Antiz96/arch-update/pull/378)) - ([3ff6dc2](https://github.com/Antiz96/arch-update/commit/3ff6dc2d1f1c7fd1ae84c2da7159312b4fcefe29)) by @Integral-Tech
+- *(README-fr)* Remove unnecessary sudo mentions ([#379](https://github.com/Antiz96/arch-update/pull/379)) - ([fb9c61d](https://github.com/Antiz96/arch-update/commit/fb9c61dc41ea2a4c8d808ff5fcf3137e8446b642)) by @Antiz96
+
+## [v3.12.1](https://github.com/Antiz96/arch-update/releases/tag/v3.12.1) - 2025-04-22
+
+### Features
+
+- Add a lock file to avoid multiple parallel runs ([#377](https://github.com/Antiz96/arch-update/pull/377)) - ([a765374](https://github.com/Antiz96/arch-update/commit/a7653740be2a749bc4ea02350fadc196d0a8f08f)) by @Antiz96
+
+## [v3.12.0](https://github.com/Antiz96/arch-update/releases/tag/v3.12.0) - 2025-04-20
+
+### Features
+
+- Add the `-s / --services` option flag to check for services requiring a post upgrade restart ([#369](https://github.com/Antiz96/arch-update/pull/369)) - ([c3b7a9f](https://github.com/Antiz96/arch-update/commit/c3b7a9f39d37e1fccdbfe39b08db5ffe1afc853c)) by @Antiz96
+
+### Styling
+
+- *(man)* Add missing hyphen in options list ([#368](https://github.com/Antiz96/arch-update/pull/368)) - ([e4be478](https://github.com/Antiz96/arch-update/commit/e4be478a15f759e7c0f0170f885a159972bb1126)) by @Antiz96
+
+### Miscellaneous
+
+- *(i18n)* Update Swedish translation ([#375](https://github.com/Antiz96/arch-update/pull/375)) - ([10ac455](https://github.com/Antiz96/arch-update/commit/10ac4555f2457c5dced3343ff08508205247748a)) by @bittin
+- *(i18n)* Update German translation ([#374](https://github.com/Antiz96/arch-update/pull/374)) - ([5cd83ef](https://github.com/Antiz96/arch-update/commit/5cd83efc57fb5efcbc45749aa1be170511006734)) by @DeN-AlB
+- *(i18n)* Update Hungarian translation ([#373](https://github.com/Antiz96/arch-update/pull/373)) - ([f19d71f](https://github.com/Antiz96/arch-update/commit/f19d71fb815a50c64c908fa1151a8fea818bff89)) by @summoner001
+- *(i18n)* Update Chinese (simplified) translation ([#372](https://github.com/Antiz96/arch-update/pull/372)) - ([e329bcd](https://github.com/Antiz96/arch-update/commit/e329bcd2e803620da2a2e1a41a235a6320d0e198)) by @Carlson24
+- *(i18n)* Update French translation ([#370](https://github.com/Antiz96/arch-update/pull/370)) - ([5499ac4](https://github.com/Antiz96/arch-update/commit/5499ac41a538de1dc0df376ec4b18a047e669c8d)) by @Antiz96
+
 ## [v3.11.0](https://github.com/Antiz96/arch-update/releases/tag/v3.11.0) - 2025-04-10
 
 ### Features
